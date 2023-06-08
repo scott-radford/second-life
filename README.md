@@ -4,7 +4,7 @@ If you're reading this, you've decided to find out more about me, Scott Radford.
 I'm an engineer working in software development, robotics, and autonomated systems. I've worked with many software development teams to create, grow, and improve products for system automation using robotics, cloud services, and deployed applications.
 
 My passion in my career has been focused on constant learning, continuous improvement, and optimizing operations for my engineering teams. 
-I write effective and efficient documentation to support software engineers geting stuff done both internally and externally. Open communication, a collaborative attitude, engaging questions, and empathizing with end-users are tactics I use to help teams improve their product and work more seemlessly. My goal in a new projuect is to fully understand the problem, clearly define success metrics, and lead by example to create the optimal solution. 
+I write effective and efficient documentation to support software engineers geting stuff done both internally and externally. Open communication, a collaborative attitude, engaging questions, and empathizing with end-users are tactics I use to help teams improve their product and work more seemlessly. My goal in a new project is to fully understand the problem, clearly define success metrics, and lead by example to create the optimal solution. 
 
 This README provides a bit more detail to my resume, job history, and tooling experience.
 The rest of this repository is a sandbox to experiement with new code, shares examples of old tooling I've worked with, and document projects that I've researched and implemented. If you have any questions, please reach out at <scottradford.dev@gmail.com>.
