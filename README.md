@@ -20,7 +20,7 @@ I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/M
 
 ## Mathworks (2014-2021)
 ### Engineering Technical Writer &rarr; Senior Engineering Technical Writer
-##### MATLAB, Simulink, C++, Robot Operating System (ROS), Gazebo Simulation
+##### Softeware: MATLAB, Simulink, C++, Robot Operating System (ROS), Gazebo Simulation
 ##### Doc Tools: XML, HTML, Arbortext, OxygenXML, Acrolinx, DITA, Docbooks
 - Performed design analysis and code reviewss with a rapidly growing team of 30 engineers in US and India
 - Authored getting started topics, reference API docs, and industry-specific application examples for our software interfaces
@@ -31,18 +31,18 @@ I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/M
   - [ROS Toolbox](https://www.mathworks.com/help/ros/) (2019)
   - [UAV Toolbox](https://www.mathworks.com/help/uav/) (2020)
 
-Mathworks produces enterprise-level software platforms for engineers, mathematicians, and scientists. MATLAB and Simulkink are their main platforms that provide industry-specific algorithms and iterfaces for rapid development of core functionality in various domains. Founded in 1984, Mathworks has created a great environment for learning software development, following engineering best practices, and performing automated verification and validation of systems. The Documentation group consists of >150 writers and editors who are trained on solid writing style, utilize modern publishing tools, and build docs-as-code for scalable doc systems. My work focused on learning the user-requirements for robotics applications, participating in design reviews of APIs, and creating all user-facing product documentation.
+Mathworks provides an enterprise-level software development platform for engineers, mathematicians, and scientists. MATLAB and Simulkink are their main products that contain industry-specific algorithms and programming iterfaces for rapid development and data analysis in various domains. Founded in 1984, Mathworks has created a long-standing great environment for learning software development, following engineering best practices, and performing automated verification and validation of systems. The Documentation group consists of >150 writers and editors who are trained on solid writing style, utilize modern publishing tools, and build docs-as-code for scalable doc systems. They hire engineers as writers for their domain-specific knowledge  My work focused on learning the user-requirements for robotics applications, participating in design reviews of APIs, and creating all user-facing product documentation.
 
 ## Shopify Logistics (2021-2023)
 ### Senior Engineering Technical Writer
-##### Javascript, TypeScript, Python, PostgresQL, GraphQL, Docker, Kubernetes, Google Cloud Platform
+##### Software: Javascript, TypeScript, NodeJS, Python, PostgresQL, GraphQL, Docker, Kubernetes, Google Cloud Platform
 ##### Doc Tools: Markdown, JSON, YAML, React, Docusaurus, Confluence
-- Previously 6 River Systems, aquired by Shopify in 2019. Sold to Ocado group in 2023.
+- Known by the company name 6 River Systems, aquired by Shopify in 2019. Sold to Ocado group in 2023.
 - Mobile robotics company operating in >100 warehouses using cloud services for software and hardware deployments
 - Participated in design reviews for internal apps for network observability, change management, and robotics simulation
 - Wrote API schema and other engineering docs for devops, product fullfilment services, and quality assurance groups.
 - Organized Confluence spaces, authored onboarding content, and monitored doc metrics to gauge engagement
 
-Working at 6 River Systems, and being aquired by Shopify taught me a lot about start-ups, business operations, and the challenges for robot deployment in the field. Supporting robots in a wide variety of environments, system configurations, and user requirements resulted in systems that were difficult to set up and debug. I wrote documentation for their software release process, system upgrades, configuring specific features, and testing environments through simulation. To optimize operations, I worked with teams to develop applications and APIs that simplfieid these processes and provided warnings, errors, and validation of the system. 
+Working at 6 River Systems, and being aquired by Shopify taught me a lot about start-ups, business operations, and the challenges for robot deployment in the field. Supporting robots in a wide variety of environments, system configurations, and user requirements resulted in systems that were difficult to set up and debug. I wrote documentation for their internal software release process, release notes for system upgrades, configuration details for specific features, and set up intructions for testing environments through simulation. To optimize operations, I worked with teams to develop applications and APIs that simplfieid our architecture, automated processes and provided warnings, errors, and validation for the entire system. 
 
 
