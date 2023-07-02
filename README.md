@@ -7,7 +7,7 @@ My passion in my career has been focused on constant learning, continuous improv
 I write effective and efficient documentation to support software engineers geting stuff done both internally and externally. Open communication, a collaborative attitude, engaging questions, and empathizing with end-users are tactics I use to help teams improve their product and work more seemlessly. My goal in a new project is to fully understand the problem, clearly define success metrics, and lead by example to create the optimal solution. 
 
 This README provides a bit more detail to my resume, job history, and tooling experience.
-The rest of this repository is a sandbox to experiement with new code, shares examples of old tooling I've worked with, and document projects that I've researched and implemented. If you have any questions, please reach out at <scottradford.dev@gmail.com>.
+The rest of this repository is a sandbox to experiment with new code, shares examples of software and tooling I've worked with, and document projects that I've researched and implemented. If you have any questions, please reach out at <scottradford.dev@gmail.com>.
 
 
 ## Virginia Tech College of Engineering (2009-2014)
@@ -15,16 +15,16 @@ The rest of this repository is a sandbox to experiement with new code, shares ex
 - Graduate Research Assistant for Unmanned Systems Lab
 - Studied UAV Mission Control, Computer Vision, Path Planning Algorithms
 
-I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/MS program. I followed the full curriculum of Mechanical Engineering with electives focused on mechatronics, biomechanics, and computer vision. My Master's thesis focused on image stitching, road detection, and UAV and mobile robot path planning algorithms. Virginia Tech was an amazing institution focued on inventing the future through research and modern engineering excellence. 
+I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/MS program. I followed the full curriculum of Mechanical Engineering with electives focused on mechatronics, biomechanics, and computer vision. My Master's thesis focused on image stitching, road detection, path planning algorithms for UAVs and mobile robots. Virginia Tech was an amazing engineering institution focued on inventing the future through research and modern engineering excellence. 
 
 
 ## Mathworks (2014-2021)
 ### Engineering Technical Writer &rarr; Senior Engineering Technical Writer
 ##### MATLAB, Simulink, C++, Robot Operating System (ROS), Gazebo Simulation
 ##### Doc Tools: XML, HTML, Arbortext, OxygenXML, Acrolinx, DITA, Docbooks
-- Performed code and deign reviews with a rapidly growing team of 30 engineers in US and India
-- Authored getting started topics, reference API docs, and industry-specific application examples
-- Implemented a continuous improvement tracking system and trained entire doc team on writing standards and best practices
+- Performed design analysis and code reviewss with a rapidly growing team of 30 engineers in US and India
+- Authored getting started topics, reference API docs, and industry-specific application examples for our software interfaces
+- Implemented a continuous improvement tracking system for doc quality metric. Trained entire doc team on writing standards and best practices.
 - Authored and managed all documentation for 4 products since inception. Links to those docs are provided.
   - [Robotics System Toolbox](https://www.mathworks.com/help/robotics/) (2015)
   - [Navigation Toolbox](https://www.mathworks.com/help/nav/) (2019)
