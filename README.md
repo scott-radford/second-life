@@ -20,7 +20,7 @@ I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/M
 
 ## Mathworks (2014-2021)
 ### Engineering Technical Writer &rarr; Senior Engineering Technical Writer
-##### Softeware: MATLAB, Simulink, C++, Robot Operating System (ROS), Gazebo Simulation
+##### Software: MATLAB, Simulink, C++, Robot Operating System (ROS), Gazebo Simulation
 ##### Doc Tools: XML, HTML, Arbortext, OxygenXML, Acrolinx, DITA, Docbooks
 - Performed design analysis and code reviews with a rapidly growing team of 30 engineers in US and India
 - Authored getting started topics, reference API docs, and industry-specific application examples for our software interfaces
@@ -31,7 +31,7 @@ I studied at Virginia Tech in Blacksburg, VA for 5 years in the accelerated BS/M
   - [ROS Toolbox](https://www.mathworks.com/help/ros/) (2019)
   - [UAV Toolbox](https://www.mathworks.com/help/uav/) (2020)
 
-Mathworks provides an enterprise-level software development platform for engineers, mathematicians, and scientists. MATLAB and Simulkink are their main products that contain industry-specific algorithms and programming iterfaces for rapid development and data analysis in various domains. Founded in 1984, Mathworks has created a long-standing great environment for learning software development, following engineering best practices, and performing automated verification and validation of systems. The Documentation group consists of >150 writers and editors who are trained on solid writing style, utilize modern publishing tools, and build docs-as-code for scalable doc systems. They hire engineers as writers for their domain-specific knowledge  My work focused on writing use-cases for robotics applications, participating in design reviews of APIs, and creating all user-facing product documentation.
+Mathworks provides an enterprise-level software development platform for engineers, mathematicians, and scientists. MATLAB and Simulink are their main products that contain industry-specific algorithms and programming iterfaces for rapid development and data analysis in various domains. Founded in 1984, Mathworks has created a long-standing great environment for learning software development, following engineering best practices, and performing automated verification and validation of systems. The Documentation group consists of >150 writers and editors who are trained on solid writing style, utilize modern publishing tools, and build docs-as-code for scalable doc systems. They hire engineers as writers for their domain-specific knowledge  My work focused on writing use-cases for robotics applications, participating in design reviews of APIs, and creating all user-facing product documentation.
 
 ## Shopify Logistics (2021-2023)
 ### Senior Engineering Technical Writer
