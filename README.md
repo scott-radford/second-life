@@ -4,9 +4,9 @@ If you're reading this, you've decided to find out more about me, Scott Radford.
 I'm an engineer working in software development, robotics, and autonomated systems. I've worked with many software development teams to create, grow, and improve products for system automation using robotics, cloud services, and deployed applications.
 
 My passion in my career has been focused on constant learning, continuous improvement, and optimizing operations for my engineering teams. 
-I write effective and efficient documentation to support software engineers geting stuff done both internally and externally. Open communication, a collaborative attitude, engaging questions, and empathizing with end-users are tactics I use to help teams improve their product and work more seemlessly. My goal in a new project is to fully understand the problem, clearly define success metrics, and lead by example to create the optimal solution. 
+I write effective and efficient documentation to support engineers geting stuff done both internally and externally. Open communication, a collaborative attitude, engaging questions, and empathizing with end-users are tactics I use to help teams improve their product and work more seemlessly. My goal in a new project is to fully understand the problem, clearly define success metrics, and lead by example to create the optimal solution. 
 
-This README provides a bit more detail to my resume, job history, and tooling experience.
+This README provides a bit more detail to my previous job history, and tooling experience.
 The rest of this repository is a sandbox to experiment with new code, shares examples of software and tooling I've worked with, and document projects that I've researched and implemented. If you have any questions, please reach out at <scottradford.dev@gmail.com>.
 
 
@@ -37,12 +37,12 @@ Mathworks provides an enterprise-level software development platform for enginee
 ### Senior Engineering Technical Writer
 ##### Software: Javascript, TypeScript, NodeJS, Python, PostgresQL, GraphQL, Docker, Kubernetes, Google Cloud Platform
 ##### Doc Tools: Markdown, JSON, YAML, React, Docusaurus, Confluence
-- Known by the company name 6 River Systems, aquired by Shopify in 2019. Sold to Ocado group in 2023.
+- Known as 6 River Systems, aquired by Shopify in 2019. Sold to Ocado group in 2023.
 - Mobile robotics company operating in >100 warehouses using cloud services for software and hardware deployments
 - Participated in design reviews for internal apps for network observability, change management, and robotics simulation
 - Wrote API schema and other engineering docs for devops, product fullfilment services, and quality assurance groups.
 - Organized Confluence spaces, authored onboarding content, and monitored doc metrics to gauge engagement
 
-Working at 6 River Systems, and being aquired by Shopify taught me a lot about start-ups, business operations, and the challenges for robot deployment in the field. Supporting robots in a wide variety of environments, system configurations, and user requirements resulted in systems that were difficult to set up and debug. I wrote documentation for their internal software release process, release notes for system upgrades, configuration details for specific features, and set up intructions for testing environments through simulation. To optimize operations, I worked with teams to develop applications and APIs that simplfieid our architecture, automated processes and provided warnings, errors, and validation for the entire system. 
+Working at 6 River Systems, and being aquired by Shopify taught me a lot about start-ups, business operations, and the challenges for robot deployment in the field. Supporting robots in a wide variety of environments, system configurations, and user requirements resulted in systems that were difficult to set up and debug. I wrote documentation for their internal software release process, release notes for system upgrades, configuration details for specific features, and set up intructions for testing environments through simulation. To optimize company and customer operations, I worked with multiple groups of engineers to develop applications and APIs that simplfieid our architecture, automated processes, and provided warnings, errors, and validation for the entire system. 
 
 
